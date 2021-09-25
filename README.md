@@ -1,6 +1,25 @@
 # SpotMicroESP32
 
-Printed some of the shoulder
+__:Printed__
+- inner shoulder
+- outer shoulder
+- top shoulder
+- shoulder joint servohorn cap (in progress)
+
+__Off-the-shelf components in:__
+- 20g servos
+- rangefinder(s)
+- camera
+- ball bearings (size? I forget if there's multiple)
+
+__Off-the-shelf components to verify:__
+- esp32s with small built-in screen
+- TTL cable
+
+__Notes/to-do:__
+- Try to extend the servo cables once the driver board is mounted
+- make carbon fiber lower legs
+
 
 Old readme stuff:
 
