@@ -1,16 +1,22 @@
 # SpotMicroESP32
 
-__:Printed__
+__Printed__
 - inner shoulder
 - outer shoulder
 - top shoulder
-- shoulder joint servohorn cap (in progress)
+- shoulder joint servohorn cap
+- front cover optimized (printing)
+- shoulder joint ball bearing pin (printing)
 
 __Off-the-shelf components in:__
 - 20g servos
 - rangefinder(s)
 - camera
 - ball bearings (size? I forget if there's multiple)
+
+__Off-the-shelf componenets ordered:__
+- 12v relay
+- servo drivers
 
 __Off-the-shelf components to verify:__
 - esp32s with small built-in screen
