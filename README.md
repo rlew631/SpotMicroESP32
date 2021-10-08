@@ -6,14 +6,17 @@ __Printed__
 - top shoulder
 - shoulder joint servohorn cap
 - front cover optimized - yellow
+- Chassis Side
+- shoulder joint servomount (2x L + 2x R)
 - limb top shell - yellow (2x L + 2x R RAN OUT OF FILAMENT)
+- wrist (printing 2x L and 2x R)
 - shoulder joint ball bearing pin (did not print)
-- TTL_Counterpiece (printing)
-- Chassis Side (printing)
-- shoulder joint servomount (printing 2x L + 2x R)
+- TTL_Counterpiece (didn't print)
+
 
 __Off-the-shelf components in:__
 - 20g servos
+- smaller servos (only have 7, reached out to seller on amazon)
 - rangefinder(s)
 - camera
 - ball bearings (size? I forget if there's multiple)
