@@ -6,7 +6,7 @@ __Assembly__
 - done
   - mounted 7 out of 8 of the servo stars in the parts (waiting on 8th servo)
 
-__Printed__
+__3D Printing__
 - black parts
   - inner shoulder
   - outer shoulder
@@ -18,6 +18,8 @@ __Printed__
   - wrist (2x L and 2x R)
   - wrist counterpart (printing 2x L and 2x R)
   - sensormount esp32 cam (printing)
+  - cameramount esp32cam (printing)
+  - cameramount counterpiece esp32cam (printing)
   - shoulder joint ball bearing pin (did not print)
   - TTL_Counterpiece (didn't print)
 - yellow parts
