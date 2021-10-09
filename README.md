@@ -1,35 +1,45 @@
 # SpotMicroESP32
 
+__Assembly__
+- To-Do
+  - mount servos on the wrists
+- done
+  - mounted 7 out of 8 of the servo stars in the parts (waiting on 8th servo)
+
 __Printed__
-- inner shoulder
-- outer shoulder
-- top shoulder
-- shoulder joint servohorn cap
-- front cover optimized - yellow
-- Chassis Side
-- shoulder joint servomount (2x L + 2x R)
-- limb top shell - yellow (2x L + 2x R RAN OUT OF FILAMENT)
-- wrist (printing 2x L and 2x R)
-- shoulder joint ball bearing pin (did not print)
-- TTL_Counterpiece (didn't print)
+- black parts
+  - inner shoulder
+  - outer shoulder
+  - top shoulder
+  - shoulder joint servohorn cap
+  - front cover optimized - yellow
+  - Chassis Side
+  - shoulder joint servomount (2x L + 2x R)
+  - wrist (2x L and 2x R)
+  - wrist counterpart (printing 2x L and 2x R)
+  - sensormount esp32 cam (printing)
+  - shoulder joint ball bearing pin (did not print)
+  - TTL_Counterpiece (didn't print)
+- yellow parts
+  - limb top shell - yellow (2x L + 2x R RAN OUT OF FILAMENT)
 
 
-__Off-the-shelf components in:__
-- 20g servos
-- smaller servos (only have 7, reached out to seller on amazon)
-- rangefinder(s)
-- camera
-- ball bearings (size? I forget if there's multiple)
-- 12v relay
-- servo drivers
-
-__Off-the-shelf components to verify:__
-- esp32s with small built-in screen
-- TTL cable
+__Off-the-shelf components__
+- in:
+  - 20g servos
+  - smaller servos (only have 7, reached out to seller on amazon)
+  - rangefinder(s)
+  - camera
+  - ball bearings (size? I forget if there's multiple)
+  - 12v relay
+  - servo drivers
+- to verify:
+  - esp32s with small built-in screen
+  - TTL cable
 
 __Notes/to-do:__
 - Try to extend the servo cables once the driver board is mounted
-- make carbon fiber lower legs
+- find a way to mount lower servos towards the body like stanford pupper project
 
 
 Old readme stuff:
