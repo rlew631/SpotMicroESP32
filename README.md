@@ -16,10 +16,12 @@ __3D Printing__
   - Chassis Side
   - shoulder joint servomount (2x L + 2x R)
   - wrist (2x L and 2x R)
-  - wrist counterpart (printing 2x L and 2x R)
-  - sensormount esp32 cam (printing)
-  - cameramount esp32cam (printing)
-  - cameramount counterpiece esp32cam (printing)
+  - wrist counterpart (2x L and 2x R)
+  - sensormount esp32 cam
+  - cameramount esp32cam
+  - cameramount counterpiece esp32cam
+  - rear cover plate
+  - Limb bottom shell (2x L and 2x R printing)
   - shoulder joint ball bearing pin (did not print)
   - TTL_Counterpiece (didn't print)
 - yellow parts
