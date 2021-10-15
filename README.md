@@ -21,11 +21,13 @@ __3D Printing__
   - cameramount esp32cam
   - cameramount counterpiece esp32cam
   - rear cover plate
-  - Limb bottom shell (2x L and 2x R printing)
+  - Limb bottom shell (2x L and 2x R)
   - shoulder joint ball bearing pin (did not print)
-  - TTL_Counterpiece (didn't print)
+  - TTL_Counterpiece (printing)
+  - limb servohorn mount (2xL 2xR printing)
+  - servohorn 6 b star (printing)
 - yellow parts
-  - limb top shell - yellow (2x L + 2x R RAN OUT OF FILAMENT)
+  - limb top shell - yellow (2x L + 2x R)
 
 
 __Off-the-shelf components__
