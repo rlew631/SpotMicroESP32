@@ -28,6 +28,9 @@ __3D Printing__
   - servohorn 6 b star (printing)
 - yellow parts
   - limb top shell - yellow (2x L + 2x R)
+  - bottom cover split front (printing)
+  - bottom cover split rear (printing)
+  top cover split front (printing)
 
 
 __Off-the-shelf components__
