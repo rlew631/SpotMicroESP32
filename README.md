@@ -29,14 +29,23 @@
   - ### Circuit mounting plates:
     - Circuitry Mountingplate for SZBK07 (printing... with extensions?)
     - Actual Circuitry Mountingplate Template (not sure if it printed fully, power went out)
+  - ## need to print:
+    - bottom shoulder
+    - lipo mounting brackets (all)
+    - neopixel ring adapter (in mods)
+    - pi zeromounting plate adapter
 - ## yellow parts
   - limb top shell - yellow (2x L + 2x R)
   - bottom cover split front
   - bottom cover split rear
   - top cover split front
   - top cover split rear
-  - limb ball bearing mount (2xL 2xR)
+  - ~~limb ball bearing mount (2xL 2xR)~~
   - ~~shoulder joint ball bearing (9x printed but not great)~~
+  - ## need to print:
+    - limb ball bearing mount LONG VERSION (2xL 2xR)
+    - rear cover shell - longer version
+    - top cover split with OLED
 
 
 ## Off-the-shelf components
