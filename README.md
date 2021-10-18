@@ -1,13 +1,13 @@
 # SpotMicroESP32
 
-__Assembly__
+## Assembly
 - To-Do
   - mount servos on the wrists
 - done
   - mounted 7 out of 8 of the servo stars in the parts (waiting on 8th servo)
 
-__3D Printing__
-- black parts
+## 3D Printing
+- ### Black parts
   - inner shoulder
   - outer shoulder
   - top shoulder
@@ -22,21 +22,27 @@ __3D Printing__
   - cameramount counterpiece esp32cam
   - rear cover plate
   - Limb bottom shell (2x L and 2x R)
-  - shoulder joint ball bearing pin (did not print)
-  - TTL_Counterpiece (printing)
-  - limb servohorn mount (2xL 2xR printing)
-  - servohorn 6 b star (printing)
-- yellow parts
+  - ~~shoulder joint ball bearing pin (did not print)~~
+  - TTL_Counterpiece
+  - limb servohorn mount (2xL 2xR)
+  - servohorn 6 b star
+  - ### Circuit mounting plates:
+    - Circuitry Mountingplate for SZBK07 (printing... with extensions?)
+    - Actual Circuitry Mountingplate Template (not sure if it printed fully, power went out)
+- ## yellow parts
   - limb top shell - yellow (2x L + 2x R)
-  - bottom cover split front (printing)
-  - bottom cover split rear (printing)
-  top cover split front (printing)
+  - bottom cover split front
+  - bottom cover split rear
+  - top cover split front
+  - top cover split rear
+  - limb ball bearing mount (2xL 2xR)
+  - ~~shoulder joint ball bearing (9x printed but not great)~~
 
 
-__Off-the-shelf components__
+## Off-the-shelf components
 - in:
   - 20g servos
-  - smaller servos (only have 7, reached out to seller on amazon)
+  - smaller servos (only have 7, ordered 4 more)
   - rangefinder(s)
   - camera
   - ball bearings (size? I forget if there's multiple)
@@ -45,13 +51,31 @@ __Off-the-shelf components__
 - to verify:
   - esp32s with small built-in screen
   - TTL cable
+- ordered:
+  - OLED LCD
+  - gryoscope / accelerometer
+  - micro usb to DIP
+  - latching buttons
+  - LIPO battery
+  - voltage sensor
+  - 30A current sensor
+  - LM2596 DC buck step down converter
+  - 20A SZBK07 DC-DC 20A Stepdown Converter
+  - ESP32 CAM
+  - 19mm push button
+  - ESP32CAM module
+  - 22AWG silicone wire
+  - RPLIDAR
 
-__Notes/to-do:__
+
+## Notes/to-do:
 - Try to extend the servo cables once the driver board is mounted
-- find a way to mount lower servos towards the body like stanford pupper project
+- find a way to mount lower servos towards the body like stanford pupper project. Or look into a cable driven system like the MIT cheetah project
 
 
-Old readme stuff:
+
+
+# Old readme stuff:
 
 My take on a SpotMicro with an optimized design for supportfree 3D-printing and integration of an ESP32-DevKitC. This is still a Work-in-Progress!
 
