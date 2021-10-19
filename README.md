@@ -2,9 +2,9 @@
 
 ## Assembly
 - To-Do
-  - mount servos on the wrists
+  - redraw the upper and lower shoulders by 0.1" so the bearings have less axial room to move. This will require a new center section if done right (as opposed to head and rear). Might also want to incorporate the slot for the LCD if it's not already in the top. Covers can be done after the mechanical bits are done...
 - done
-  - mounted 7 out of 8 of the servo stars in the parts (waiting on 8th servo)
+  - assembled chassis center with rear shoulders, face (minus the esp32cam).
 
 ## 3D Printing
 - ### Black parts
@@ -27,11 +27,11 @@
   - limb servohorn mount (2xL 2xR)
   - servohorn 6 b star
   - ### Circuit mounting plates:
-    - Circuitry Mountingplate for SZBK07 (printing... with extensions?)
-    - Actual Circuitry Mountingplate Template (not sure if it printed fully, power went out)
+    - ~~Circuitry Mountingplate for SZBK07 (printed all messed up)~~
+    - Actual Circuitry Mountingplate Template
   - ## need to print:
-    - bottom shoulder
-    - lipo mounting brackets (all)
+    - bottom shoulder (printing)
+    - lipo mounting brackets (printing all)
     - neopixel ring adapter (in mods)
     - pi zeromounting plate adapter
 - ## yellow parts
@@ -46,6 +46,8 @@
     - limb ball bearing mount LONG VERSION (2xL 2xR)
     - rear cover shell - longer version
     - top cover split with OLED
+- ## Other
+  - shoulder joint ball bearing pin (turned 8x out of delrin)
 
 
 ## Off-the-shelf components
