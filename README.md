@@ -1,10 +1,16 @@
 # SpotMicroESP32
 
 ## Assembly
-- To-Do
-  - redraw the upper and lower shoulders by 0.1" so the bearings have less axial room to move. This will require a new center section if done right (as opposed to head and rear). Might also want to incorporate the slot for the LCD if it's not already in the top. Covers can be done after the mechanical bits are done...
-- done
-  - assembled chassis center with rear shoulders, face (minus the esp32cam).
+- Mechanical
+  - To-Do
+    - redraw the upper and lower shoulders by 0.1" so the bearings have less axial room to move. This will require a new center section if done right (as opposed to head and rear). Might also want to incorporate the slot for the LCD if it's not already in the top. Covers can be done after the mechanical bits are done...
+  - done
+    - assembled chassis center with shoulders and legs, face, rear
+- Electrical
+  - To-do
+    - extend servo leads.... everything else
+  - Done
+    - half of the wiring for the servos
 
 ## 3D Printing
 - ### Black parts
@@ -22,18 +28,20 @@
   - cameramount counterpiece esp32cam
   - rear cover plate
   - Limb bottom shell (2x L and 2x R)
-  - ~~shoulder joint ball bearing pin (did not print)~~
+  - ~~shoulder joint ball b earing pin (did not print)~~
   - TTL_Counterpiece
   - limb servohorn mount (2xL 2xR)
   - servohorn 6 b star
+  - bottom shoulder
+  - lipo mounting brackets (all)
+  - neopixel ring adapter (in mods)
+  - rear cover shell - longer version (should be yellow)
   - ### Circuit mounting plates:
     - ~~Circuitry Mountingplate for SZBK07 (printed all messed up)~~
     - Actual Circuitry Mountingplate Template
   - ## need to print:
-    - bottom shoulder (printing)
-    - lipo mounting brackets (printing all)
-    - neopixel ring adapter (in mods)
-    - pi zeromounting plate adapter
+    - battery center mount (reconfigured to allow room for wire leads)
+    - pi zeromounting plate adapter (might have to trim ends in cad)
 - ## yellow parts
   - limb top shell - yellow (2x L + 2x R)
   - bottom cover split front
@@ -41,10 +49,10 @@
   - top cover split front
   - top cover split rear
   - ~~limb ball bearing mount (2xL 2xR)~~
-  - ~~shoulder joint ball bearing (9x printed but not great)~~
+  - ~~shoulder joint ball bearing (9x printed but no good)~~
+  - limb ball bearing mount LONG VERSION (2xL 2xR)
   - ## need to print:
-    - limb ball bearing mount LONG VERSION (2xL 2xR)
-    - rear cover shell - longer version
+    - rear cover shell - longer version (worth printing again at 210c instead of 200)
     - top cover split with OLED
 - ## Other
   - shoulder joint ball bearing pin (turned 8x out of delrin)
